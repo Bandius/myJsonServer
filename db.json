@@ -2,22 +2,23 @@
     "companies": [
         {
             "id": 1,
-            "title": "VacuumLabs"
+            "Name": "VacuumLabs",
+            "Contact": "0911111111"
         },
         {
             "id": 2,
-            "title": "Siemens"
+            "Name": "Siemens",
+            "Contact": "0922222222"
         },
         {
             "id": 3,
-            "title": "TUKE"
+            "Name": "TUKE",
+            "Contact": "0933333333"
         },
         {
             "id": 4,
-            "title": "IBM"
+            "Name": "IBM",
+            "Contact": "0944444444"
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
