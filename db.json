@@ -2,23 +2,51 @@
     "companies": [
         {
             "id": 1,
-            "Name": "VacuumLabs",
-            "Contact": "0911111111"
+            "name": "Vacuumlabs",
+            "phone": "0911111111",
+            "email": "helmfrid.gehrig@vacuumlabs.com"
         },
         {
             "id": 2,
-            "Name": "Siemens",
-            "Contact": "0922222222"
+            "name": "Siemens",
+            "phone": "0922222222",
+            "email": "shashi.kaufman@siemens.com"
         },
         {
             "id": 3,
-            "Name": "TUKE",
-            "Contact": "0933333333"
+            "name": "TUKE",
+            "phone": "0933333333",
+            "email": "annabelle.howard@tuke.sk"
         },
         {
             "id": 4,
-            "Name": "IBM",
-            "Contact": "0944444444"
+            "name": "IBM",
+            "phone": "0944444444",
+            "email": "enosh.schenck@ibm.com"
+        },
+        {
+            "id": 5,
+            "name": "Wirecard",
+            "phone": "0955555555",
+            "email": "selena.flipse@wirecard.com"
+        },
+        {
+            "id": 6,
+            "name": "FPT",
+            "phone": "0966666666",
+            "email": "mable.broz@fpt.com"
+        },
+        {
+            "id": 7,
+            "name": "Ness",
+            "phone": "0977777777",
+            "email": "zavier.gerard@ness.com"
+        },
+        {
+            "id": 8,
+            "name": "AT&T",
+            "phone": "0988888888",
+            "email": "menuha.stacey@att.com"
         }
     ]
 }
