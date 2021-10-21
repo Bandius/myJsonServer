@@ -72,20 +72,6 @@
             "phone": "0911111113"
         },
         {
-            "companyId": 1,
-            "id": 4,
-            "name": "Naja Willey",
-            "email": "naja.willey@vacuumlabs.com",
-            "phone": "0911111114"
-        },
-        {
-            "companyId": 1,
-            "id": 5,
-            "name": "Abel Regenbogen",
-            "email": "abel.regenbogen@vacuumlabs.com",
-            "phone": "0911111115"
-        },
-        {
             "companyId": 2,
             "id": 6,
             "name": "Shashi Kaufman",
@@ -98,20 +84,6 @@
             "name": "Kelsi Trajkovski",
             "email": "kelsi.trajkovski@siemens.com",
             "phone": "0922222222"
-        },
-        {
-            "companyId": 2,
-            "id": 9,
-            "name": "Kelsi Trajkovski",
-            "email": "kelsi.trajkovski@siemens.com",
-            "phone": "0922222223"
-        },
-        {
-            "companyId": 2,
-            "id": 10,
-            "name": "Kelsi Trajkovski",
-            "email": "kelsi.trajkovski@siemens.com",
-            "phone": "0922222224"
         },
         {
             "companyId": 2,
@@ -142,20 +114,6 @@
             "phone": "0933333333"
         },
         {
-            "companyId": 3,
-            "id": 15,
-            "name": "Brutus Gros",
-            "email": "brutus.gros@tuke.sk",
-            "phone": "0933333334"
-        },
-        {
-            "companyId": 3,
-            "id": 16,
-            "name": "Elisa Wilson",
-            "email": "elisa.wilson@tuke.sk",
-            "phone": "0933333335"
-        },
-        {
             "companyId": 4,
             "id": 17,
             "name": "Camélia Rush",
@@ -175,20 +133,6 @@
             "name": "Nadine Mah",
             "email": "nadine.mah@ibm.com",
             "phone": "0944444443"
-        },
-        {
-            "companyId": 4,
-            "id": 20,
-            "name": "Ramesha Martins",
-            "email": "ramesha.martins@ibm.com",
-            "phone": "0944444444"
-        },
-        {
-            "companyId": 4,
-            "id": 21,
-            "name": "Wilford Henningsen",
-            "email": "wilford.henningsen@ibm.com",
-            "phone": "0944444445"
         },
         {
             "companyId": 5,
@@ -212,20 +156,6 @@
             "phone": "0955555553"
         },
         {
-            "companyId": 5,
-            "id": 25,
-            "name": "Shaul Aaldenberg",
-            "email": "shaul.aaldenberg@wirecard.com",
-            "phone": "0955555554"
-        },
-        {
-            "companyId": 5,
-            "id": 26,
-            "name": "Nikodemos Smets",
-            "email": "nikodemos.smets@wirecard.com",
-            "phone": "0955555555"
-        },
-        {
             "companyId": 6,
             "id": 27,
             "name": "Mable Broz",
@@ -245,20 +175,6 @@
             "name": "Cristiano Elwes",
             "email": "cristiano.elwes@fpt.com",
             "phone": "0966666663"
-        },
-        {
-            "companyId": 6,
-            "id": 30,
-            "name": "Kristófer Welter",
-            "email": "kristofer.welter@fpt.com",
-            "phone": "0966666664"
-        },
-        {
-            "companyId": 6,
-            "id": 31,
-            "name": "Chastity Crespo",
-            "email": "chastity.crespo@fpt.com",
-            "phone": "0966666665"
         },
         {
             "companyId": 7,
@@ -282,20 +198,6 @@
             "phone": "0977777773"
         },
         {
-            "companyId": 7,
-            "id": 35,
-            "name": "Yevheniy Elmer",
-            "email": "yevheniy.elmer@ness.com",
-            "phone": "0977777774"
-        },
-        {
-            "companyId": 7,
-            "id": 36,
-            "name": "Vladimira Verona",
-            "email": "vladimira.verona@ness.com",
-            "phone": "0977777775"
-        },
-        {
             "companyId": 8,
             "id": 37,
             "name": "Menuha Stacey",
@@ -315,21 +217,6 @@
             "name": "Brigitta Choudhary",
             "email": "brigitta.choudhary@ness.com",
             "phone": "0988888883"
-        },
-        {
-            "companyId": 8,
-            "id": 40,
-            "name": "Su-Bin Burnham",
-            "email": "subin.burnham@ness.com",
-            "phone": "0988888884"
-        },
-        {
-            "companyId": 8,
-            "id": 41,
-            "name": "Aiko Sneijer",
-            "email": "aiko.sneijer@ness.com",
-            "phone": "0988888885"
         }
-
     ]
 }
