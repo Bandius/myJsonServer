@@ -218,5 +218,40 @@
             "email": "brigitta.choudhary@ness.com",
             "phone": "0988888883"
         }
+    ],
+    "rooms" : [
+        {
+            "id" : 1,
+            "roomNumber": "101",
+            "city": "Kosice",
+            "building": "Business Centre 1",
+            "floor": 1,
+            "capacity" : 20,
+            "equipment" : "whiteboard"
+        },
+        {
+            "id" : 2,
+            "roomNumber": "201",
+            "city": "Kosice",
+            "building": "Business Centre 1",
+            "floor": 2,
+            "capacity" : 20
+        },
+        {
+            "id" : 3,
+            "roomNumber": "101",
+            "city": "Bratislava",
+            "building": "Business Area",
+            "floor": 1,
+            "capacity" : 20
+        },
+        {
+            "id" : 4,
+            "roomNumber": "301",
+            "city": "Bratislava",
+            "building": "Business Area",
+            "floor": 3,
+            "capacity" : 20
+        }
     ]
 }
