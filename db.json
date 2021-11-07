@@ -1,5 +1,5 @@
 {
-    "companies": [
+    "tenants": [
         {
             "id": 1,
             "name": "Vacuumlabs",
@@ -51,168 +51,168 @@
     ],
     "users": [
         {
-            "companyId": 1,
+            "tenantId": 1,
             "id": 1,
             "name": "Helmfrid gehrig",
             "email": "helmfrid.gehrig@vacuumlabs.com",
             "phone": "0911111111"
         },
         {
-            "companyId": 1,
+            "tenantId": 1,
             "id": 2,
             "name": "Gevorg Juhász",
             "email": "gevorg.juhasz@vacuumlabs.com",
             "phone": "0911111112"
         },
         {
-            "companyId": 1,
+            "tenantId": 1,
             "id": 3,
             "name": "Nadya Barett",
             "email": "nadya.barett@vacuumlabs.com",
             "phone": "0911111113"
         },
         {
-            "companyId": 2,
+            "tenantId": 2,
             "id": 6,
             "name": "Shashi Kaufman",
             "email": "shashi.kaufman@siemens.com",
             "phone": "0922222221"
         },
         {
-            "companyId": 2,
+            "tenantId": 2,
             "id": 8,
             "name": "Kelsi Trajkovski",
             "email": "kelsi.trajkovski@siemens.com",
             "phone": "0922222222"
         },
         {
-            "companyId": 2,
+            "tenantId": 2,
             "id": 11,
             "name": "Bettie Farro",
             "email": "bettie.farro@siemens.com",
             "phone": "0922222225"
         },
         {
-            "companyId": 3,
+            "tenantId": 3,
             "id": 12,
             "name": "Annabelle Howard",
             "email": "annabelle.howard@tuke.sk",
             "phone": "0933333331"
         },
         {
-            "companyId": 3,
+            "tenantId": 3,
             "id": 13,
             "name": "Aksel Petri",
             "email": "aksel.petri@tuke.sk",
             "phone": "0933333332"
         },
         {
-            "companyId": 3,
+            "tenantId": 3,
             "id": 14,
             "name": "Angelica Crespo",
             "email": "angelica.crespo@tuke.sk",
             "phone": "0933333333"
         },
         {
-            "companyId": 4,
+            "tenantId": 4,
             "id": 17,
             "name": "Camélia Rush",
             "email": "camelia.rush@ibm.com",
             "phone": "0944444441"
         },
         {
-            "companyId": 4,
+            "tenantId": 4,
             "id": 18,
             "name": "Kjeld Foth",
             "email": "kjeld.foth@ibm.com",
             "phone": "0944444442"
         },
         {
-            "companyId": 4,
+            "tenantId": 4,
             "id": 19,
             "name": "Nadine Mah",
             "email": "nadine.mah@ibm.com",
             "phone": "0944444443"
         },
         {
-            "companyId": 5,
+            "tenantId": 5,
             "id": 22,
             "name": "Selena Flipse",
             "email": "selena.flipse@wirecard.com",
             "phone": "0955555551"
         },
         {
-            "companyId": 5,
+            "tenantId": 5,
             "id": 23,
             "name": "Amir Bennington",
             "email": "amir.bennington@wirecard.com",
             "phone": "0955555552"
         },
         {
-            "companyId": 5,
+            "tenantId": 5,
             "id": 24,
             "name": "Raffaela Đurić",
             "email": "raffaela.duric@wirecard.com",
             "phone": "0955555553"
         },
         {
-            "companyId": 6,
+            "tenantId": 6,
             "id": 27,
             "name": "Mable Broz",
             "email": "mable.broz@fpt.com",
             "phone": "0966666661"
         },
         {
-            "companyId": 6,
+            "tenantId": 6,
             "id": 28,
             "name": "Afanasiy Albu",
             "email": "afanasiy.albu@fpt.com",
             "phone": "0966666662"
         },
         {
-            "companyId": 6,
+            "tenantId": 6,
             "id": 29,
             "name": "Cristiano Elwes",
             "email": "cristiano.elwes@fpt.com",
             "phone": "0966666663"
         },
         {
-            "companyId": 7,
+            "tenantId": 7,
             "id": 32,
             "name": "Zavier Gerard",
             "email": "zavier.gerard@ness.com",
             "phone": "0977777771"
         },
         {
-            "companyId": 7,
+            "tenantId": 7,
             "id": 33,
             "name": "Mato Guillot",
             "email": "mato.guillot@ness.com",
             "phone": "0977777772"
         },
         {
-            "companyId": 7,
+            "tenantId": 7,
             "id": 34,
             "name": "Edi Garner",
             "email": "edi.garner@ness.com",
             "phone": "0977777773"
         },
         {
-            "companyId": 8,
+            "tenantId": 8,
             "id": 37,
             "name": "Menuha Stacey",
             "email": "menuha.stacey@att.com",
             "phone": "0988888881"
         },
         {
-            "companyId": 8,
+            "tenantId": 8,
             "id": 38,
             "name": "Daniel Mayer",
             "email": "daniel.mayer@ness.com",
             "phone": "0988888882"
         },
         {
-            "companyId": 8,
+            "tenantId": 8,
             "id": 39,
             "name": "Brigitta Choudhary",
             "email": "brigitta.choudhary@ness.com",
