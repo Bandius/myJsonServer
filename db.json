@@ -235,7 +235,8 @@
             "city": "Kosice",
             "building": "Business Centre 1",
             "floor": 2,
-            "capacity" : 20
+            "capacity" : 20,
+            "equipment" : "whiteboard"
         },
         {
             "id" : 3,
@@ -243,7 +244,8 @@
             "city": "Bratislava",
             "building": "Business Area",
             "floor": 1,
-            "capacity" : 20
+            "capacity" : 20,
+            "equipment" : "whiteboard"
         },
         {
             "id" : 4,
@@ -251,7 +253,44 @@
             "city": "Bratislava",
             "building": "Business Area",
             "floor": 3,
-            "capacity" : 20
+            "capacity" : 20,
+            "equipment" : "whiteboard"
+        },
+        {
+            "id" : 5,
+            "roomNumber": "102",
+            "city": "Kosice",
+            "building": "Business Centre 1",
+            "floor": 1,
+            "capacity" : 20,
+            "equipment" : "whiteboard"
+        },
+        {
+            "id" : 6,
+            "roomNumber": "103",
+            "city": "Kosice",
+            "building": "Business Centre 1",
+            "floor": 1,
+            "capacity" : 20,
+            "equipment" : "whiteboard"
+        },
+        {
+            "id" : 7,
+            "roomNumber": "102",
+            "city": "Bratislava",
+            "building": "Business Area",
+            "floor": 1,
+            "capacity" : 20,
+            "equipment" : "whiteboard"
+        },
+        {
+            "id" : 8,
+            "roomNumber": "303",
+            "city": "Bratislava",
+            "building": "Business Area",
+            "floor": 3,
+            "capacity" : 20,
+            "equipment" : "whiteboard"
         }
     ]
 }
