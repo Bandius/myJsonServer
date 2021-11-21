@@ -181,7 +181,7 @@
             "email": "brigitta.choudhary@ness.com"
         }
     ],
-    "cities" : [
+    "cities": [
         {
             "id" : 1,
             "name": "Kosice"
@@ -195,7 +195,7 @@
             "name": "Budapest"
         }
     ],
-    "buildings" : [
+    "buildings": [
         {
             "id": 1,
             "name": "Business Centre 1",
