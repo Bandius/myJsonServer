@@ -199,30 +199,30 @@
         {
             "id": 1,
             "name": "Business Centre 1",
-            "cityId": 1
+            "city": 1
         },
         {
             "id": 2,
             "name": "Business Centre 2",
-            "cityId": 1
+            "city": 1
         },
         {
             "id": 3,
             "name": "Business Area",
-            "cityId": 2
+            "city": 2
         },
         {
             "id": 4,
             "name": "IT building",
-            "cityId": 3
+            "city": 3
         }
     ],
     "rooms": [
         {
             "id": 1,
             "name": "Mordor1",
-            "buildingId": 1,
-            "cityId": 1,
+            "building": 1,
+            "city": 1,
             "floor": 1,
             "capacity": 20,
             "equipment": "whiteboard, projector"
@@ -230,8 +230,8 @@
         {
             "id": 2,
             "name": "Mordor2",
-            "buildingId": 1,
-            "cityId": 1,
+            "building": 1,
+            "city": 1,
             "floor": 1,
             "capacity": 4,
             "equipment": "whiteboard"
@@ -239,8 +239,8 @@
         {
             "id": 3,
             "name": "Tardis",
-            "buildingId": 2,
-            "cityId": 1,
+            "building": 2,
+            "city": 1,
             "floor": 2,
             "capacity": 3,
             "equipment": "whiteboard"
@@ -248,8 +248,8 @@
         {
             "id": 4,
             "name": "Blavdor",
-            "buildingId": 3,
-            "cityId": 2,
+            "building": 3,
+            "city": 2,
             "floor": 1,
             "capacity": 5,
             "equipment": "whiteboard"
@@ -257,8 +257,8 @@
         {
             "id": 5,
             "name": "Arteos",
-            "buildingId": 3,
-            "cityId": 2,
+            "building": 3,
+            "city": 2,
             "floor": 2,
             "capacity": 20,
             "equipment": "whiteboard, projector"
@@ -266,8 +266,8 @@
         {
             "id": 6,
             "name": "Testos",
-            "buildingId": 4,
-            "cityId": 3,
+            "building": 4,
+            "city": 3,
             "floor": 5,
             "capacity": 20,
             "equipment": "whiteboard, projector"
