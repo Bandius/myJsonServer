@@ -2,295 +2,275 @@
     "tenants": [
         {
             "id": 1,
-            "name": "Vacuumlabs",
-            "phone": "0911111111",
-            "email": "helmfrid.gehrig@vacuumlabs.com"
+            "name": "Vacuumlabs"
         },
         {
             "id": 2,
-            "name": "Siemens",
-            "phone": "0922222221",
-            "email": "shashi.kaufman@siemens.com"
+            "name": "Siemens"
         },
         {
             "id": 3,
-            "name": "TUKE",
-            "phone": "0933333331",
-            "email": "annabelle.howard@tuke.sk"
+            "name": "TUKE"
         },
         {
             "id": 4,
-            "name": "IBM",
-            "phone": "0944444441",
-            "email": "enosh.schenck@ibm.com"
+            "name": "IBM"
         },
         {
             "id": 5,
-            "name": "Wirecard",
-            "phone": "0955555551",
-            "email": "selena.flipse@wirecard.com"
+            "name": "Wirecard"
         },
         {
             "id": 6,
-            "name": "FPT",
-            "phone": "0966666661",
-            "email": "mable.broz@fpt.com"
+            "name": "FPT"
         },
         {
             "id": 7,
-            "name": "Ness",
-            "phone": "0977777771",
-            "email": "zavier.gerard@ness.com"
+            "name": "Ness"
         },
         {
             "id": 8,
-            "name": "AT&T",
-            "phone": "0988888881",
-            "email": "menuha.stacey@att.com"
+            "name": "AT&T"
         }
     ],
     "users": [
         {
-            "tenantId": 1,
+            
             "id": 1,
             "name": "Helmfrid gehrig",
             "email": "helmfrid.gehrig@vacuumlabs.com",
-            "phone": "0911111111"
+            "tenantId": 1
         },
         {
-            "tenantId": 1,
             "id": 2,
             "name": "Gevorg Juhász",
             "email": "gevorg.juhasz@vacuumlabs.com",
-            "phone": "0911111112"
+            "tenantId": 1
         },
         {
-            "tenantId": 1,
             "id": 3,
             "name": "Nadya Barett",
             "email": "nadya.barett@vacuumlabs.com",
-            "phone": "0911111113"
+            "tenantId": 1
+
         },
         {
-            "tenantId": 2,
             "id": 6,
             "name": "Shashi Kaufman",
             "email": "shashi.kaufman@siemens.com",
-            "phone": "0922222221"
+            "tenantId": 2
         },
         {
-            "tenantId": 2,
             "id": 8,
             "name": "Kelsi Trajkovski",
             "email": "kelsi.trajkovski@siemens.com",
-            "phone": "0922222222"
+            "tenantId": 2
         },
         {
-            "tenantId": 2,
             "id": 11,
             "name": "Bettie Farro",
             "email": "bettie.farro@siemens.com",
-            "phone": "0922222225"
+            "tenantId": 2
         },
         {
-            "tenantId": 3,
             "id": 12,
             "name": "Annabelle Howard",
             "email": "annabelle.howard@tuke.sk",
-            "phone": "0933333331"
+            "tenantId": 3
         },
         {
-            "tenantId": 3,
             "id": 13,
             "name": "Aksel Petri",
             "email": "aksel.petri@tuke.sk",
-            "phone": "0933333332"
+            "tenantId": 3
         },
         {
-            "tenantId": 3,
             "id": 14,
             "name": "Angelica Crespo",
             "email": "angelica.crespo@tuke.sk",
-            "phone": "0933333333"
+            "tenantId": 3
         },
         {
             "tenantId": 4,
             "id": 17,
             "name": "Camélia Rush",
-            "email": "camelia.rush@ibm.com",
-            "phone": "0944444441"
+            "email": "camelia.rush@ibm.com"
         },
         {
             "tenantId": 4,
             "id": 18,
             "name": "Kjeld Foth",
-            "email": "kjeld.foth@ibm.com",
-            "phone": "0944444442"
+            "email": "kjeld.foth@ibm.com"
         },
         {
             "tenantId": 4,
             "id": 19,
             "name": "Nadine Mah",
-            "email": "nadine.mah@ibm.com",
-            "phone": "0944444443"
+            "email": "nadine.mah@ibm.com"
         },
         {
             "tenantId": 5,
             "id": 22,
             "name": "Selena Flipse",
-            "email": "selena.flipse@wirecard.com",
-            "phone": "0955555551"
+            "email": "selena.flipse@wirecard.com"
         },
         {
             "tenantId": 5,
             "id": 23,
             "name": "Amir Bennington",
-            "email": "amir.bennington@wirecard.com",
-            "phone": "0955555552"
+            "email": "amir.bennington@wirecard.com"
         },
         {
             "tenantId": 5,
             "id": 24,
             "name": "Raffaela Đurić",
-            "email": "raffaela.duric@wirecard.com",
-            "phone": "0955555553"
+            "email": "raffaela.duric@wirecard.com"
         },
         {
             "tenantId": 6,
             "id": 27,
             "name": "Mable Broz",
-            "email": "mable.broz@fpt.com",
-            "phone": "0966666661"
+            "email": "mable.broz@fpt.com"
         },
         {
             "tenantId": 6,
             "id": 28,
             "name": "Afanasiy Albu",
-            "email": "afanasiy.albu@fpt.com",
-            "phone": "0966666662"
+            "email": "afanasiy.albu@fpt.com"
         },
         {
             "tenantId": 6,
             "id": 29,
             "name": "Cristiano Elwes",
-            "email": "cristiano.elwes@fpt.com",
-            "phone": "0966666663"
+            "email": "cristiano.elwes@fpt.com"
         },
         {
             "tenantId": 7,
             "id": 32,
             "name": "Zavier Gerard",
-            "email": "zavier.gerard@ness.com",
-            "phone": "0977777771"
+            "email": "zavier.gerard@ness.com"
         },
         {
             "tenantId": 7,
             "id": 33,
             "name": "Mato Guillot",
-            "email": "mato.guillot@ness.com",
-            "phone": "0977777772"
+            "email": "mato.guillot@ness.com"
         },
         {
             "tenantId": 7,
             "id": 34,
             "name": "Edi Garner",
-            "email": "edi.garner@ness.com",
-            "phone": "0977777773"
+            "email": "edi.garner@ness.com"
         },
         {
             "tenantId": 8,
             "id": 37,
             "name": "Menuha Stacey",
-            "email": "menuha.stacey@att.com",
-            "phone": "0988888881"
+            "email": "menuha.stacey@att.com"
         },
         {
             "tenantId": 8,
             "id": 38,
             "name": "Daniel Mayer",
-            "email": "daniel.mayer@ness.com",
-            "phone": "0988888882"
+            "email": "daniel.mayer@ness.com"
         },
         {
             "tenantId": 8,
             "id": 39,
             "name": "Brigitta Choudhary",
-            "email": "brigitta.choudhary@ness.com",
-            "phone": "0988888883"
+            "email": "brigitta.choudhary@ness.com"
         }
     ],
-    "rooms" : [
+    "cities" : [
         {
             "id" : 1,
-            "roomNumber": "101",
-            "city": "Kosice",
-            "building": "Business Centre 1",
-            "floor": 1,
-            "capacity" : 20,
-            "equipment" : "whiteboard"
+            "name": "Kosice"
         },
         {
-            "id" : 2,
-            "roomNumber": "201",
-            "city": "Kosice",
-            "building": "Business Centre 1",
+            "id": 2,
+            "name": "Bratislava"
+        },
+        {
+            "id": 3,
+            "name": "Budapest"
+        }
+    ],
+    "buildings" : [
+        {
+            "id": 1,
+            "name": "Business Centre 1",
+            "cityId": 1
+        },
+        {
+            "id": 2,
+            "name": "Business Centre 2",
+            "cityId": 1
+        },
+        {
+            "id": 3,
+            "name": "Business Area",
+            "cityId": 2
+        },
+        {
+            "id": 4,
+            "name": "IT building",
+            "cityId": 3
+        }
+    ],
+    "rooms": [
+        {
+            "id": 1,
+            "name": "Mordor1",
+            "buildingId": 1,
+            "cityId": 1,
+            "floor": 1,
+            "capacity": 20,
+            "equipment": "whiteboard, projector"
+        },
+        {
+            "id": 2,
+            "name": "Mordor2",
+            "buildingId": 1,
+            "cityId": 1,
+            "floor": 1,
+            "capacity": 4,
+            "equipment": "whiteboard"
+        },
+        {
+            "id": 3,
+            "name": "Tardis",
+            "buildingId": 2,
+            "cityId": 1,
             "floor": 2,
-            "capacity" : 20,
-            "equipment" : "whiteboard"
+            "capacity": 3,
+            "equipment": "whiteboard"
         },
         {
-            "id" : 3,
-            "roomNumber": "101",
-            "city": "Bratislava",
-            "building": "Business Area",
+            "id": 4,
+            "name": "Blavdor",
+            "buildingId": 3,
+            "cityId": 2,
             "floor": 1,
-            "capacity" : 20,
-            "equipment" : "whiteboard"
+            "capacity": 5,
+            "equipment": "whiteboard"
         },
         {
-            "id" : 4,
-            "roomNumber": "301",
-            "city": "Bratislava",
-            "building": "Business Area",
-            "floor": 3,
-            "capacity" : 20,
-            "equipment" : "whiteboard"
+            "id": 5,
+            "name": "Arteos",
+            "buildingId": 3,
+            "cityId": 2,
+            "floor": 2,
+            "capacity": 20,
+            "equipment": "whiteboard, projector"
         },
         {
-            "id" : 5,
-            "roomNumber": "102",
-            "city": "Kosice",
-            "building": "Business Centre 1",
-            "floor": 1,
-            "capacity" : 20,
-            "equipment" : "whiteboard"
-        },
-        {
-            "id" : 6,
-            "roomNumber": "103",
-            "city": "Kosice",
-            "building": "Business Centre 1",
-            "floor": 1,
-            "capacity" : 20,
-            "equipment" : "whiteboard"
-        },
-        {
-            "id" : 7,
-            "roomNumber": "102",
-            "city": "Bratislava",
-            "building": "Business Area",
-            "floor": 1,
-            "capacity" : 20,
-            "equipment" : "whiteboard"
-        },
-        {
-            "id" : 8,
-            "roomNumber": "303",
-            "city": "Bratislava",
-            "building": "Business Area",
-            "floor": 3,
-            "capacity" : 20,
-            "equipment" : "whiteboard"
+            "id": 6,
+            "name": "Testos",
+            "buildingId": 4,
+            "cityId": 3,
+            "floor": 5,
+            "capacity": 20,
+            "equipment": "whiteboard, projector"
         }
     ]
 }
