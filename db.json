@@ -222,7 +222,9 @@
             "id": 1,
             "name": "Mordor1",
             "buildingId": 1,
+            "building": "Business Centre 1",
             "cityId": 1,
+            "city": "Kosice",
             "floor": 1,
             "capacity": 20,
             "equipment": "whiteboard, projector"
@@ -231,7 +233,9 @@
             "id": 2,
             "name": "Mordor2",
             "buildingId": 1,
+            "building": "Business Centre 1",
             "cityId": 1,
+            "city": "Kosice",
             "floor": 1,
             "capacity": 4,
             "equipment": "whiteboard"
@@ -240,7 +244,9 @@
             "id": 3,
             "name": "Tardis",
             "buildingId": 2,
+            "building": "Business Centre 2",
             "cityId": 1,
+            "city": "Kosice",
             "floor": 2,
             "capacity": 3,
             "equipment": "whiteboard"
@@ -249,7 +255,9 @@
             "id": 4,
             "name": "Blavdor",
             "buildingId": 3,
+            "building": "Business Area",
             "cityId": 2,
+            "city": "Bratislava",
             "floor": 1,
             "capacity": 5,
             "equipment": "whiteboard"
@@ -258,7 +266,9 @@
             "id": 5,
             "name": "Arteos",
             "buildingId": 3,
+            "building": "Business Area",
             "cityId": 2,
+            "city": "Bratislava",
             "floor": 2,
             "capacity": 20,
             "equipment": "whiteboard, projector"
@@ -267,7 +277,9 @@
             "id": 6,
             "name": "Testos",
             "buildingId": 4,
+            "building": "IT building",
             "cityId": 3,
+            "city": "Budapest",
             "floor": 5,
             "capacity": 20,
             "equipment": "whiteboard, projector"
