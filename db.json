@@ -217,20 +217,6 @@
             "cityId": 3
         }
     ],
-    "domains": [
-        {
-            "id": 1,
-            "name": "@vacuumlabs.com"
-        },
-        {
-            "id": 2,
-            "name": "@tuke.sk"
-        },
-        {
-            "id": 3,
-            "name": "@coworkapp.me"
-        }
-    ],
     "rooms": [
         {
             "id": 1,
