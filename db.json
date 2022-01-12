@@ -226,37 +226,44 @@
     "cities": [
         {
             "id" : 1,
-            "name": "Kosice"
+            "name": "Kosice",
+            "address": "Testovacia 1"
         },
         {
             "id": 2,
-            "name": "Bratislava"
+            "name": "Bratislava",
+            "address": "Adminova 24"
         },
         {
             "id": 3,
-            "name": "Budapest"
+            "name": "Budapest",
+            "address": "Tabletova 58"
         }
     ],
     "buildings": [
         {
             "id": 1,
             "name": "Business Centre 1",
-            "cityId": 1
+            "cityId": 1,
+            "city": "Kosice"
         },
         {
             "id": 2,
             "name": "Business Centre 2",
-            "cityId": 1
+            "cityId": 1,
+            "city": "Kosice"
         },
         {
             "id": 3,
             "name": "Business Area",
-            "cityId": 2
+            "cityId": 2,
+            "city": "Bratislava"
         },
         {
             "id": 4,
             "name": "IT building",
-            "cityId": 3
+            "cityId": 3,
+            "city": "Budapest"
         }
     ],
     "rooms": [
