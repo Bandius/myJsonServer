@@ -41,7 +41,7 @@
             "email": "helmfrid.gehrig@vacuumlabs.com",
             "tenantId": 1,
             "type": "email",
-            "role": "tenantAdmin"
+            "role": "TENANT_ADMIN"
         },
         {
             "id": 2,
@@ -49,7 +49,7 @@
             "email": "gevorg.juhasz@vacuumlabs.com",
             "tenantId": 1,
             "type": "email",
-            "role": "tenantAdmin"
+            "role": "TENANT_ADMIN"
         },
         {
             "id": 3,
@@ -57,7 +57,7 @@
             "email": "nadya.barett@vacuumlabs.com",
             "tenantId": 1,
             "type": "email",
-            "role": "employee"
+            "role": "USER"
 
         },
         {
@@ -66,7 +66,7 @@
             "email": "shashi.kaufman@siemens.com",
             "tenantId": 2,
             "type": "email",
-            "role": "tenantAdmin"
+            "role": "TENANT_ADMIN"
         },
         {
             "id": 8,
@@ -74,7 +74,7 @@
             "email": "kelsi.trajkovski@siemens.com",
             "tenantId": 2,
             "type": "email",
-            "role": "tenantAdmin"
+            "role": "TENANT_ADMIN"
         },
         {
             "id": 11,
@@ -82,7 +82,7 @@
             "email": "bettie.farro@siemens.com",
             "tenantId": 2,
             "type": "email",
-            "role": "employee"
+            "role": "USER"
         },
         {
             "id": 12,
@@ -90,7 +90,7 @@
             "email": "annabelle.howard@tuke.sk",
             "tenantId": 3,
             "type": "email",
-            "role": "tenantAdmin"
+            "role": "TENANT_ADMIN"
         },
         {
             "id": 13,
@@ -98,7 +98,7 @@
             "email": "aksel.petri@tuke.sk",
             "tenantId": 3,
             "type": "email",
-            "role": "employee"
+            "role": "USER"
         },
         {
             "id": 14,
@@ -106,12 +106,12 @@
             "email": "angelica.crespo@tuke.sk",
             "tenantId": 3,
             "type": "email",
-            "role": "tenantAdmin"
+            "role": "TENANT_ADMIN"
         },
         {
             "tenantId": 4,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 17,
             "name": "Camélia Rush",
             "email": "camelia.rush@ibm.com"
@@ -119,7 +119,7 @@
         {
             "tenantId": 4,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 18,
             "name": "Kjeld Foth",
             "email": "kjeld.foth@ibm.com"
@@ -127,7 +127,7 @@
         {
             "tenantId": 4,
             "type": "email",
-            "role": "employee",
+            "role": "USER",
             "id": 19,
             "name": "Nadine Mah",
             "email": "nadine.mah@ibm.com"
@@ -135,7 +135,7 @@
         {
             "tenantId": 5,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 22,
             "name": "Selena Flipse",
             "email": "selena.flipse@wirecard.com"
@@ -143,7 +143,7 @@
         {
             "tenantId": 5,
             "type": "email",
-            "role": "employee",
+            "role": "USER",
             "id": 23,
             "name": "Amir Bennington",
             "email": "amir.bennington@wirecard.com"
@@ -151,7 +151,7 @@
         {
             "tenantId": 5,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 24,
             "name": "Raffaela Đurić",
             "email": "raffaela.duric@wirecard.com"
@@ -159,7 +159,7 @@
         {
             "tenantId": 6,
             "type": "email",
-            "role": "employee",
+            "role": "USER",
             "id": 27,
             "name": "Mable Broz",
             "email": "mable.broz@fpt.com"
@@ -167,7 +167,7 @@
         {
             "tenantId": 6,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 28,
             "name": "Afanasiy Albu",
             "email": "afanasiy.albu@fpt.com"
@@ -175,7 +175,7 @@
         {
             "tenantId": 6,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 29,
             "name": "Cristiano Elwes",
             "email": "cristiano.elwes@fpt.com"
@@ -183,7 +183,7 @@
         {
             "tenantId": 7,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 32,
             "name": "Zavier Gerard",
             "email": "zavier.gerard@ness.com"
@@ -191,7 +191,7 @@
         {
             "tenantId": 7,
             "type": "email",
-            "role": "employee",
+            "role": "USER",
             "id": 33,
             "name": "Mato Guillot",
             "email": "mato.guillot@ness.com"
@@ -199,7 +199,7 @@
         {
             "tenantId": 7,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 34,
             "name": "Edi Garner",
             "email": "edi.garner@ness.com"
@@ -207,7 +207,7 @@
         {
             "tenantId": 8,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 37,
             "name": "Menuha Stacey",
             "email": "menuha.stacey@att.com"
@@ -215,7 +215,7 @@
         {
             "tenantId": 8,
             "type": "email",
-            "role": "tenantAdmin",
+            "role": "TENANT_ADMIN",
             "id": 38,
             "name": "Daniel Mayer",
             "email": "daniel.mayer@ness.com"
@@ -223,7 +223,7 @@
         {
             "tenantId": 8,
             "type": "email",
-            "role": "employee",
+            "role": "USER",
             "id": 39,
             "name": "Brigitta Choudhary",
             "email": "brigitta.choudhary@ness.com"
