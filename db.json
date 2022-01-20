@@ -242,12 +242,6 @@
         },
         {
             "tenantId": "1",
-            "type": "domain",
-            "id": "42",
-            "name": "@coworkapp.me"
-        },
-        {
-            "tenantId": "1",
             "type": "email",
             "role": "TENANT_ADMIN",
             "id": "Pcixmm8cvxYr5azwaNqNVDF99t73",
