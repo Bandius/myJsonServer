@@ -253,6 +253,14 @@
             "id": "Pcixmm8cvxYr5azwaNqNVDF99t73",
             "name": "Tenant Admin",
             "email": "tenantadmin@test.sk"
+        },
+        {
+            "tenantId": "",
+            "type": "email",
+            "role": "SUPER_ADMIN",
+            "id": "hPrNu2svt5YJIlFxYkFbyeTugxl2",
+            "name": "Super Admin",
+            "email": "superadmin@test.sk"
         }
     ],
     "cities": [
