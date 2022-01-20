@@ -1,227 +1,227 @@
 {
     "tenants": [
         {
-            "id": 1,
+            "id": "1",
             "name": "Vacuumlabs"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Siemens"
         },
         {
-            "id": 3,
+            "id": "3",
             "name": "TUKE"
         },
         {
-            "id": 4,
+            "id": "4",
             "name": "IBM"
         },
         {
-            "id": 5,
+            "id": "5",
             "name": "Wirecard"
         },
         {
-            "id": 6,
+            "id": "6",
             "name": "FPT"
         },
         {
-            "id": 7,
+            "id": "7",
             "name": "Ness"
         },
         {
-            "id": 8,
+            "id": "8",
             "name": "AT&T"
         }
     ],
     "users": [
         {
             
-            "id": 1,
+            "id": "1",
             "name": "Helmfrid gehrig",
             "email": "helmfrid.gehrig@vacuumlabs.com",
-            "tenantId": 1,
+            "tenantId": "1",
             "type": "email",
             "role": "TENANT_ADMIN"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Gevorg Juhász",
             "email": "gevorg.juhasz@vacuumlabs.com",
-            "tenantId": 1,
+            "tenantId": "1",
             "type": "email",
             "role": "TENANT_ADMIN"
         },
         {
-            "id": 3,
+            "id": "3",
             "name": "Nadya Barett",
             "email": "nadya.barett@vacuumlabs.com",
-            "tenantId": 1,
+            "tenantId": "1",
             "type": "email",
             "role": "USER"
 
         },
         {
-            "id": 6,
+            "id": "6",
             "name": "Shashi Kaufman",
             "email": "shashi.kaufman@siemens.com",
-            "tenantId": 2,
+            "tenantId": "2",
             "type": "email",
             "role": "TENANT_ADMIN"
         },
         {
-            "id": 8,
+            "id": "8",
             "name": "Kelsi Trajkovski",
             "email": "kelsi.trajkovski@siemens.com",
-            "tenantId": 2,
+            "tenantId": "2",
             "type": "email",
             "role": "TENANT_ADMIN"
         },
         {
-            "id": 11,
+            "id": "11",
             "name": "Bettie Farro",
             "email": "bettie.farro@siemens.com",
-            "tenantId": 2,
+            "tenantId": "2",
             "type": "email",
             "role": "USER"
         },
         {
-            "id": 12,
+            "id": "12",
             "name": "Annabelle Howard",
             "email": "annabelle.howard@tuke.sk",
-            "tenantId": 3,
+            "tenantId": "3",
             "type": "email",
             "role": "TENANT_ADMIN"
         },
         {
-            "id": 13,
+            "id": "13",
             "name": "Aksel Petri",
             "email": "aksel.petri@tuke.sk",
-            "tenantId": 3,
+            "tenantId": "3",
             "type": "email",
             "role": "USER"
         },
         {
-            "id": 14,
+            "id": "14",
             "name": "Angelica Crespo",
             "email": "angelica.crespo@tuke.sk",
-            "tenantId": 3,
+            "tenantId": "3",
             "type": "email",
             "role": "TENANT_ADMIN"
         },
         {
-            "tenantId": 4,
+            "tenantId": "4",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 17,
+            "id": "17",
             "name": "Camélia Rush",
             "email": "camelia.rush@ibm.com"
         },
         {
-            "tenantId": 4,
+            "tenantId": "4",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 18,
+            "id": "18",
             "name": "Kjeld Foth",
             "email": "kjeld.foth@ibm.com"
         },
         {
-            "tenantId": 4,
+            "tenantId": "4",
             "type": "email",
             "role": "USER",
-            "id": 19,
+            "id": "19",
             "name": "Nadine Mah",
             "email": "nadine.mah@ibm.com"
         },
         {
-            "tenantId": 5,
+            "tenantId": "5",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 22,
+            "id": "22",
             "name": "Selena Flipse",
             "email": "selena.flipse@wirecard.com"
         },
         {
-            "tenantId": 5,
+            "tenantId": "5",
             "type": "email",
             "role": "USER",
-            "id": 23,
+            "id": "23",
             "name": "Amir Bennington",
             "email": "amir.bennington@wirecard.com"
         },
         {
-            "tenantId": 5,
+            "tenantId": "5",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 24,
+            "id": "24",
             "name": "Raffaela Đurić",
             "email": "raffaela.duric@wirecard.com"
         },
         {
-            "tenantId": 6,
+            "tenantId": "6",
             "type": "email",
             "role": "USER",
-            "id": 27,
+            "id": "27",
             "name": "Mable Broz",
             "email": "mable.broz@fpt.com"
         },
         {
-            "tenantId": 6,
+            "tenantId": "6",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 28,
+            "id": "28",
             "name": "Afanasiy Albu",
             "email": "afanasiy.albu@fpt.com"
         },
         {
-            "tenantId": 6,
+            "tenantId": "6",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 29,
+            "id": "29",
             "name": "Cristiano Elwes",
             "email": "cristiano.elwes@fpt.com"
         },
         {
-            "tenantId": 7,
+            "tenantId": "7",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 32,
+            "id": "32",
             "name": "Zavier Gerard",
             "email": "zavier.gerard@ness.com"
         },
         {
-            "tenantId": 7,
+            "tenantId": "7",
             "type": "email",
             "role": "USER",
-            "id": 33,
+            "id": "33",
             "name": "Mato Guillot",
             "email": "mato.guillot@ness.com"
         },
         {
-            "tenantId": 7,
+            "tenantId": "7",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 34,
+            "id": "34",
             "name": "Edi Garner",
             "email": "edi.garner@ness.com"
         },
         {
-            "tenantId": 8,
+            "tenantId": "8",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 37,
+            "id": "37",
             "name": "Menuha Stacey",
             "email": "menuha.stacey@att.com"
         },
         {
-            "tenantId": 8,
+            "tenantId": "8",
             "type": "email",
             "role": "TENANT_ADMIN",
-            "id": 38,
+            "id": "38",
             "name": "Daniel Mayer",
             "email": "daniel.mayer@ness.com"
         },
         {
-            "tenantId": 8,
+            "tenantId": "8",
             "type": "email",
             "role": "USER",
             "id": "39",
@@ -229,133 +229,133 @@
             "email": "brigitta.choudhary@ness.com"
         },
         {
-            "tenantId": 1,
+            "tenantId": "1",
             "type": "domain",
-            "id": 40,
+            "id": "40",
             "name": "@vacuumlabs.com"
         },
         {
-            "tenantId": 1,
+            "tenantId": "1",
             "type": "domain",
-            "id": 41,
+            "id": "41",
             "name": "@tuke.sk"
         },
         {
-            "tenantId": 1,
+            "tenantId": "1",
             "type": "domain",
-            "id": 42,
+            "id": "42",
             "name": "@coworkapp.me"
         }
     ],
     "cities": [
         {
-            "id" : 1,
+            "id": "1",
             "name": "Kosice"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Bratislava"
         },
         {
-            "id": 3,
+            "id": "3",
             "name": "Budapest"
         }
     ],
     "buildings": [
         {
-            "id": 1,
+            "id": "1",
             "name": "Business Centre 1",
-            "cityId": 1,
+            "cityId": "1",
             "city": "Kosice",
             "address": "Testovacia 1"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Business Centre 2",
-            "cityId": 1,
+            "cityId": "1",
             "city": "Kosice",
             "address": "Testovacia 2"
         },
         {
-            "id": 3,
+            "id": "3",
             "name": "Business Area",
-            "cityId": 2,
+            "cityId": "2",
             "city": "Bratislava",
             "address": "Adminova 24"
         },
         {
-            "id": 4,
+            "id": "4",
             "name": "IT building",
-            "cityId": 3,
+            "cityId": "3",
             "city": "Budapest",
             "address": "Tabletova 58"
         }
     ],
     "rooms": [
         {
-            "id": 1,
+            "id": "1",
             "name": "Mordor1",
-            "buildingId": 1,
+            "buildingId": "1",
             "building": "Business Centre 1",
-            "cityId": 1,
+            "cityId": "1",
             "city": "Kosice",
-            "floor": 1,
-            "capacity": 20,
+            "floor": "1",
+            "capacity": "20",
             "equipment": "whiteboard, projector"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Mordor2",
-            "buildingId": 1,
+            "buildingId": "1",
             "building": "Business Centre 1",
-            "cityId": 1,
+            "cityId": "1",
             "city": "Kosice",
-            "floor": 1,
-            "capacity": 4,
+            "floor": "1",
+            "capacity": "4",
             "equipment": "whiteboard"
         },
         {
-            "id": 3,
+            "id": "3",
             "name": "Tardis",
-            "buildingId": 2,
+            "buildingId": "2",
             "building": "Business Centre 2",
-            "cityId": 1,
+            "cityId": "1",
             "city": "Kosice",
-            "floor": 2,
-            "capacity": 3,
+            "floor": "2",
+            "capacity": "3",
             "equipment": "whiteboard"
         },
         {
-            "id": 4,
+            "id": "4",
             "name": "Blavdor",
-            "buildingId": 3,
+            "buildingId": "3",
             "building": "Business Area",
-            "cityId": 2,
+            "cityId": "2",
             "city": "Bratislava",
-            "floor": 1,
-            "capacity": 5,
+            "floor": "1",
+            "capacity": "5",
             "equipment": "whiteboard"
         },
         {
-            "id": 5,
+            "id": "5",
             "name": "Arteos",
-            "buildingId": 3,
+            "buildingId": "3",
             "building": "Business Area",
-            "cityId": 2,
+            "cityId": "2",
             "city": "Bratislava",
-            "floor": 2,
-            "capacity": 20,
+            "floor": "2",
+            "capacity": "20",
             "equipment": "whiteboard, projector"
         },
         {
-            "id": 6,
+            "id": "6",
             "name": "Testos",
-            "buildingId": 4,
+            "buildingId": "4",
             "building": "IT building",
-            "cityId": 3,
+            "cityId": "3",
             "city": "Budapest",
-            "floor": 5,
-            "capacity": 20,
+            "floor": "5",
+            "capacity": "20",
             "equipment": "whiteboard, projector"
         }
     ]
