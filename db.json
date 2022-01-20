@@ -224,7 +224,7 @@
             "tenantId": 8,
             "type": "email",
             "role": "USER",
-            "id": 39,
+            "id": "39",
             "name": "Brigitta Choudhary",
             "email": "brigitta.choudhary@ness.com"
         },
@@ -245,14 +245,6 @@
             "type": "domain",
             "id": 42,
             "name": "@coworkapp.me"
-        },
-        {
-            "tenantId": 1,
-            "type": "email",
-            "role": "TENANT_ADMIN",
-            "id": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQwMTU0NmJkMWRhMzA0ZDc2NGNmZWUzYTJhZTVjZDBlNGY2ZjgyN2IiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiVGVuYW50IEFkbWluIiwicm9sZSI6IlRFTkFOVF9BRE1JTiIsInRlbmFudElkIjoiMSIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9jb3dvcmtyZXNlcnZhdGlvbiIsImF1ZCI6ImNvd29ya3Jlc2VydmF0aW9uIiwiYXV0aF90aW1lIjoxNjQyNjk4NjY1LCJ1c2VyX2lkIjoiUGNpeG1tOGN2eFlyNWF6d2FOcU5WREY5OXQ3MyIsInN1YiI6IlBjaXhtbThjdnhZcjVhendhTnFOVkRGOTl0NzMiLCJpYXQiOjE2NDI2OTg2NjUsImV4cCI6MTY0MjcwMjI2NSwiZW1haWwiOiJ0ZW5hbnRhZG1pbkB0ZXN0LnNrIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbInRlbmFudGFkbWluQHRlc3Quc2siXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.TH-4ynZsuFC9yMU1Mu_gvXkU3LRXiPew_P-vi-GARIj6TD3WWHx-I2juHokmrJS0KLai05TzJYVfTLxyQCXfx33-uArJ3IR00noLg326Ii-kbp9fYf-ae2658nHdob7C8NlCUGQljMlcjyU81xmSXnX1e46zPIpJuM49tTq6q6UslhlmXQd8Gzc2k4rKCI5x2wA7Z6OaXkrvc0i8w_8BVjs_NFHh52Sdf8QxiI9p9r20954mAv7X_GkwTePEtPHOk0c9N5zewb1hEThALecmGrxZKkFDuMkJFTexSdMXyP1-8oqEoktkYrvLdn2wVMyimoYnSd2oXCam64R1aeO95A",
-            "name": "Tenant Admin",
-            "email": "tenantadmin@test.sk"
         }
     ],
     "cities": [
