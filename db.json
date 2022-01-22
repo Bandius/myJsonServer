@@ -257,44 +257,33 @@
             "email": "superadmin@test.sk"
         }
     ],
-    "cities": [
+    "invites": [
         {
-            "id": "1",
-            "name": "Kosice"
+            "domain": "True",
+            "expiration": null,
+            "id": "23",
+            "role": "TENANT_ADMIN",
+            "status": "Active",
+            "tenantId": "1",
+            "value": "@google.com"
         },
         {
-            "id": "2",
-            "name": "Bratislava"
+            "domain": "False",
+            "expiration": null,
+            "id": "23",
+            "role": "TENANT_ADMIN",
+            "status": "Active",
+            "tenantId": "1",
+            "value": "janko.hrasko@vacuumlabs.com"
         },
         {
-            "id": "3",
-            "name": "Budapest"
-        }
-    ],
-    "buildings": [
-        {
-            "id": "1",
-            "name": "Business Centre 1",
-            "cityId": "1",
-            "address": "Testovacia 1"
-        },
-        {
-            "id": "2",
-            "name": "Business Centre 2",
-            "cityId": "1",
-            "address": "Testovacia 2"
-        },
-        {
-            "id": "3",
-            "name": "Business Area",
-            "cityId": "2",
-            "address": "Adminova 24"
-        },
-        {
-            "id": "4",
-            "name": "IT building",
-            "cityId": "3",
-            "address": "Tabletova 58"
+            "domain": "False",
+            "expiration": null,
+            "id": "23",
+            "role": "USER",
+            "status": "Active",
+            "tenantId": "1",
+            "value": "jozko.mrkvicka@vacuumlabs.com"
         }
     ],
     "rooms": [
