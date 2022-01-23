@@ -265,7 +265,7 @@
             "role": "TENANT_ADMIN",
             "status": "Active",
             "tenantId": "1",
-            "value": "@google.com"
+            "value": "@googles.com"
         },
         {
             "domain": "False",
